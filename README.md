@@ -47,7 +47,7 @@ Corpus linguistics journals, conferences and online resources.
 
 | Tool                                                         | Usage                                                       | License    |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ---------- |
-| [*AntConc*][https://www.laurenceanthony.net/software/antconc/] | Concordance, Collocation, Frequency list, Key word analysis | Free       |
+| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key word analysis | Free       |
 | [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                    | Free       |
 | [*Intertext*](https://wanthalf.saga.cz/intertext)            | Parallel Corpus Alignment                                   | Free       |
 | [*Notepad++*](https://notepad-plus-plus.org/)                | Text cleaning, Regular expression                           | Free       |
