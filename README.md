@@ -1,2 +1,57 @@
 # corpus-linguistics-memo
 Corpus linguistics journals, conferences and online resources.
+
+## Journals
+
+| Journal                                                      | Publisher                                  | Book Reviews |
+| ------------------------------------------------------------ | ------------------------------------------ | ------------ |
+| [*Applied Corpus Linguistics*](https://www.journals.elsevier.com/applied-corpus-linguistics) | Elsevier                                   | Yes          |
+| [*Across Languages and Cultures*](https://akjournals.com/view/journals/084/084-overview.xml) | Akadémiai Kiadó                            | Yes          |
+| [*Corpus Linguistics Research*](http://www.kacl.or.kr/)      | Korean Association for Corpus Linguistics  | No           |
+| [Corpus Pragmatics](https://www.springer.com/journal/41701/) | Springer                                   | Yes          |
+| [*Critical Arts*](https://www.tandfonline.com/toc/rcrc20/current) | Sage                                       | Yes          |
+| [*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) | Oxford University Press                    | Yes          |
+| [*International Journal of Learner Corpus Research*](https://benjamins.com/catalog/ijlcr) | John Benjamins                             | Yes          |
+| [*Journal of Corpora and Discourse Studies*](https://jcads.cardiffuniversitypress.org/) | Cardiff University Press                   | Yes          |
+| [*Language Resources and Evaluation*](https://www.springer.com/journal/10579/) | Springer                                   | No           |
+| [*Perspectives*](https://www.tandfonline.com/rmps20)         | Taylor & Francis                           | Yes          |
+| [*Research in Corpus Linguistics*](https://ricl.aelinco.es/index.php/ricl) | Spanish Association for Corpus Linguistics | Yes          |
+| [*Research Methods in Applied Linguistics*](https://www.journals.elsevier.com/research-methods-in-applied-linguistics) | Elsevier                                   | ---          |
+| [*Text & Talk*](https://www.degruyter.com/journal/key/TEXT/html) | De Gruyter                                 | No           |
+| [*语料库语言学*](http://ylyy.chinajournal.net.cn/wkg/WebPublication/index.aspx?mid=ylyy) | 北京外国语大学                             | Yes          |
+
+## Conferences & Lectures
+
+| Conference / Lectures        | Location / Platform | Date    |
+| ---------------------------- | ------------------- | ------- |
+| 第六届全国语料库翻译学研讨会 | 浙江工商大学        | 2022/04 |
+
+## Public Corpora
+
+| Corpus                                                       | Type                             | License     |
+| ------------------------------------------------------------ | -------------------------------- | ----------- |
+| [*BAWE*](https://www.coventry.ac.uk/research/research-directories/current-projects/2015/british-academic-written-english-corpus-bawe/) | Academic English Corpus          | Free        |
+| [*BCC Corpus*](http://bcc.blcu.edu.cn/)                      | Written Chinese Corpus           | Free        |
+| [*BNC Corpus*](https://ota.bodleian.ox.ac.uk/repository/xmlui/handle/20.500.12024/2554) | Spoken & Written British English | Free        |
+| [*BNC 2014 Corpus*](http://corpora.lancs.ac.uk/bnc2014/)     | Spoken & Written British English | Free        |
+| [*BYU Corpus*](https://www.english-corpora.org/)             | Written English                  | Partly Free |
+| [CEPIC](https://digital.lib.hkbu.edu.hk/cepic)               | Chinese-English Parallel Corpus  | Free        |
+| [*CQPweb BFSU*](http://114.251.154.212/cqp/)                 | Multilingual Corpus              | Free        |
+| [CQPweb Lancaster](https://cqpweb.lancs.ac.uk)               | Multilingual Corpus              | Free        |
+| [*PBPCCC*](http://corpus.usx.edu.cn/)                        | Chinese-English Parallel Corpus  | Free        |
+| [*Sketch Engine*](https://www.sketchengine.eu/)              | Multilingual Corpus              | Partly Free |
+| [*Subtitle Corpus*](https://opus.nlpl.eu/)                   | Multilingual Subtitle Corpus     | Free        |
+| [*Talk Bank*](https://www.talkbank.org)                      | Spoken English Corpus            | Free        |
+
+## Corpus Tools
+
+| Tool                                                         | Usage                                                       | License    |
+| ------------------------------------------------------------ | ----------------------------------------------------------- | ---------- |
+| [*AntConc*][https://www.laurenceanthony.net/software/antconc/] | Concordance, Collocation, Frequency list, Key word analysis | Free       |
+| [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                    | Free       |
+| [*Intertext*](https://wanthalf.saga.cz/intertext)            | Parallel Corpus Alignment                                   | Free       |
+| [*Notepad++*](https://notepad-plus-plus.org/)                | Text cleaning, Regular expression                           | Free       |
+| [*R quanteda*](https://quanteda.io/)                         | Quantitative Analysis                                       | Free       |
+| [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                          | Free       |
+| [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                      | Free       |
+| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word analysis | Commercial |
