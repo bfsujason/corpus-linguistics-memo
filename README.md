@@ -47,11 +47,11 @@ Corpus linguistics journals, conferences and online resources.
 
 | Tool                                                         | Usage                                                       | License    |
 | ------------------------------------------------------------ | ----------------------------------------------------------- | ---------- |
-| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key word analysis | Free       |
+| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key Word Analysis | Free       |
 | [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                    | Free       |
 | [*Intertext*](https://wanthalf.saga.cz/intertext)            | Parallel Corpus Alignment                                   | Free       |
-| [*Notepad++*](https://notepad-plus-plus.org/)                | Text cleaning, Regular expression                           | Free       |
+| [*Notepad++*](https://notepad-plus-plus.org/)                | Text Cleaning, Regular Expression                           | Free       |
 | [*R quanteda*](https://quanteda.io/)                         | Quantitative Analysis                                       | Free       |
 | [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                          | Free       |
 | [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                      | Free       |
-| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word analysis | Commercial |
+| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word Analysis | Commercial |
