@@ -22,10 +22,9 @@ Corpus linguistics journals, conferences and online resources.
 
 ## Conferences & Lectures
 
-| Conference / Lectures                | Location / Platform | Date                   |
-| ------------------------------------ | ------------------- | ---------------------- |
-| 当代叙事学研究的若干问题及其批评面向 | 腾讯会议：907377552 | 2021/12/10/19:00-21:00 |
-| 第六届全国语料库翻译学研讨会         | 浙江工商大学        | 2022/04                |
+| Conference / Lectures        | Location / Platform | Date    |
+| ---------------------------- | ------------------- | ------- |
+| 第六届全国语料库翻译学研讨会 | 浙江工商大学        | 2022/04 |
 
 ## Public Corpora
 
