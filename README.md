@@ -45,14 +45,20 @@ Corpus linguistics journals, conferences and online resources.
 
 ## Corpus Tools
 
-| Tool                                                         | Usage                                                       | License    |
-| ------------------------------------------------------------ | ----------------------------------------------------------- | ---------- |
-| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key Word Analysis | Free       |
-| [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                    | Free       |
-| [*Intertext*](https://wanthalf.saga.cz/intertext)            | Parallel Corpus Alignment                                   | Free       |
-| [*Notepad++*](https://notepad-plus-plus.org/)                | Text Cleaning, Regular Expression                           | Free       |
-| [*R Bibliometrix*](https://www.bibliometrix.org/)            | Bibliometric Analysis                                       | Free       |
-| [*R quanteda*](https://quanteda.io/)                         | Quantitative Analysis                                       | Free       |
-| [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                          | Free       |
-| [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                      | Free       |
-| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word Analysis | Commercial |
+| Tool                                                         | Usage                                                        | License    |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
+| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key Word Analysis  | Free       |
+| [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                     | Free       |
+| [*Intertext*](https://wanthalf.saga.cz/intertext)            | Manual Alignment of Parallel Corpus                          | Free       |
+| [Lexical Diversity](https://github.com/kristopherkyle/lexical_diversity) | Python Script for Lexical Diversity                          | Free       |
+| [*Multidimensional Analysis Tagger*](https://github.com/andreanini/multidimensionalanalysistagger) | Tagger for Biber's Multidimensional Analysis                 | Free       |
+| [*Notepad++*](https://notepad-plus-plus.org/)                | Text Cleaning, Regular Expression                            | Free       |
+| [*PIE Detection*](https://github.com/hslh/pie-detection)     | Automatic Detection of Potentially Idiomatic Expressions in English | Free       |
+| [*pySBD*](https://github.com/nipunsadvilkar/pySBD)           | Multilingual Sentence Splitter                               | Free       |
+| [*R Bibliometrix*](https://www.bibliometrix.org/)            | Bibliometric Analysis                                        | Free       |
+| [*R quanteda*](https://quanteda.io/)                         | Quantitative Analysis                                        | Free       |
+| [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                           | Free       |
+| [rstFinder](https://github.com/EducationalTestingService/rstfinder) | Discourse Parsing for English                                | Free       |
+| [syntSemFeatures](https://github.com/annefried/syntSemFeatures) | Automatic Extraction of Syntactic and Semantic Features      | Free       |
+| [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                       | Free       |
+| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word Analysis  | Commercial |
