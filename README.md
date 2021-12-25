@@ -14,7 +14,7 @@ Corpus linguistics journals, conferences, tools and online resources.
 | [*Corpus Pragmatics*](https://www.springer.com/journal/41701/) | Springer                                   | Yes          |
 | [*Critical Arts*](https://www.tandfonline.com/toc/rcrc20/current) | Sage                                       | Yes          |
 | [*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) | Oxford University Press                    | Yes          |
-| [*International Journal of Corpus Linguistics*](International Journal of Corpus Linguistics) | John Benjamins                             | Yes          |
+| [*International Journal of Corpus Linguistics*](https://benjamins.com/catalog/ijcl) | John Benjamins                             | Yes          |
 | [*International Journal of Learner Corpus Research*](https://benjamins.com/catalog/ijlcr) | John Benjamins                             | Yes          |
 | [*Journal of Corpora and Discourse Studies*](https://jcads.cardiffuniversitypress.org/) | Cardiff University Press                   | Yes          |
 | [*Language Resources and Evaluation*](https://www.springer.com/journal/10579/) | Springer                                   | No           |
