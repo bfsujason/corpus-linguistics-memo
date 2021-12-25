@@ -50,6 +50,7 @@ Corpus linguistics journals, conferences, tools and online resources.
 | [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency List, Key Word Analysis  | Free       |
 | [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                     | Free       |
 | [*Intertext*](https://wanthalf.saga.cz/intertext)            | Manual Alignment of Parallel Corpus                          | Free       |
+| [*jieba*](https://github.com/fxsjy/jieba)                    | Chinese Word Segmentation                                    | Free       |
 | [*Lexical Diversity*](https://github.com/kristopherkyle/lexical_diversity) | Python Script for Lexical Diversity                          | Free       |
 | [*Multidimensional Analysis Tagger*](https://github.com/andreanini/multidimensionalanalysistagger) | Tagger for Biber's Multidimensional Analysis                 | Free       |
 | [*Notepad++*](https://notepad-plus-plus.org/)                | Text Cleaning, Regular Expression                            | Free       |
@@ -60,6 +61,7 @@ Corpus linguistics journals, conferences, tools and online resources.
 | [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                           | Free       |
 | [*rstFinder*](https://github.com/EducationalTestingService/rstfinder) | Discourse Parsing for English                                | Free       |
 | [*sentence-transformers*](https://github.com/UKPLab/sentence-transformers) | Transformer-based Multilingual Sentence Embeddings           | Free       |
+| [*stanza*](https://stanfordnlp.github.io/stanza/)            | Stanford NLP Pipeline for Tokenization, POS Tagging and Parsing | Free       |
 | [*syntSemFeatures*](https://github.com/annefried/syntSemFeatures) | Automatic Extraction of Syntactic and Semantic Features      | Free       |
 | [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                       | Free       |
 | [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency List, Key word Analysis  | Commercial |
