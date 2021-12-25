@@ -58,7 +58,7 @@ Corpus linguistics journals, conferences and online resources.
 | [*R Bibliometrix*](https://www.bibliometrix.org/)            | Bibliometric Analysis                                        | Free       |
 | [*R quanteda*](https://quanteda.io/)                         | Quantitative Analysis                                        | Free       |
 | [*R Syuzhet*](Syuzhet)                                       | Sentiment Analysis                                           | Free       |
-| [rstFinder](https://github.com/EducationalTestingService/rstfinder) | Discourse Parsing for English                                | Free       |
+| [*rstFinder*](https://github.com/EducationalTestingService/rstfinder) | Discourse Parsing for English                                | Free       |
 | [*sentence-transformers*](https://github.com/UKPLab/sentence-transformers) | Transformer-based Multilingual Sentence Embeddings           | Free       |
 | [syntSemFeatures](https://github.com/annefried/syntSemFeatures) | Automatic Extraction of Syntactic and Semantic Features      | Free       |
 | [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                       | Free       |
