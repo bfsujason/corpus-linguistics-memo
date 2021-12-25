@@ -9,7 +9,7 @@ Corpus linguistics journals, conferences, tools and online resources.
 | [*Across Languages and Cultures*](https://akjournals.com/view/journals/084/084-overview.xml) | Akadémiai Kiadó                            | Yes          |
 | [*Babel*](https://www.jbe-platform.com/content/journals/15699668) | John Benjamins                             | Yes          |
 | [*Corpora*](https://www.euppublishing.com/loi/cor)           | Edinburgh University Press                 | Yes          |
-| [*Corpus Linguistics and Linguistic Theory*](Corpus Linguistics and Linguistic Theory) | De Gruyter                                 | No           |
+| [*Corpus Linguistics and Linguistic Theory*](https://www.degruyter.com/journal/key/cllt/html?lang=en) | De Gruyter                                 | No           |
 | [*Corpus Linguistics Research*](http://www.kacl.or.kr/)      | Korean Association for Corpus Linguistics  | No           |
 | [*Corpus Pragmatics*](https://www.springer.com/journal/41701/) | Springer                                   | Yes          |
 | [*Critical Arts*](https://www.tandfonline.com/toc/rcrc20/current) | Sage                                       | Yes          |
