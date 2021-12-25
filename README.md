@@ -52,6 +52,7 @@ Corpus linguistics journals, conferences, tools and online resources.
 | [*Intertext*](https://wanthalf.saga.cz/intertext)            | Manual Alignment of Parallel Corpus                          | Free       |
 | [*jieba*](https://github.com/fxsjy/jieba)                    | Chinese Word Segmentation                                    | Free       |
 | [*Lexical Diversity*](https://github.com/kristopherkyle/lexical_diversity) | Python Script for Lexical Diversity                          | Free       |
+| [*l2sca*](http://www.personal.psu.edu/xxl13/downloads/l2sca.html) | Syntactic Complexity Analyzer for L2                         | Free       |
 | [*Multidimensional Analysis Tagger*](https://github.com/andreanini/multidimensionalanalysistagger) | Tagger for Biber's Multidimensional Analysis                 | Free       |
 | [*Notepad++*](https://notepad-plus-plus.org/)                | Text Cleaning, Regular Expression                            | Free       |
 | [*PIE Detection*](https://github.com/hslh/pie-detection)     | Automatic Detection of Potentially Idiomatic Expressions in English | Free       |
