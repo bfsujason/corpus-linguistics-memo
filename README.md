@@ -47,7 +47,7 @@ Corpus linguistics journals, conferences and online resources.
 
 | Tool                                                         | Usage                                                        | License    |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------- |
-| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency list, Key Word Analysis  | Free       |
+| [*AntConc*](https://www.laurenceanthony.net/software/antconc/) | Concordance, Collocation, Frequency List, Key Word Analysis  | Free       |
 | [*BFSU Qualitative Coder*](http://corpus.bfsu.edu.cn/BFSU_Qualitative_Coder_1.2.zip) | Corpus Manual Annotation                                     | Free       |
 | [*Intertext*](https://wanthalf.saga.cz/intertext)            | Manual Alignment of Parallel Corpus                          | Free       |
 | [*Lexical Diversity*](https://github.com/kristopherkyle/lexical_diversity) | Python Script for Lexical Diversity                          | Free       |
@@ -62,4 +62,4 @@ Corpus linguistics journals, conferences and online resources.
 | [*sentence-transformers*](https://github.com/UKPLab/sentence-transformers) | Transformer-based Multilingual Sentence Embeddings           | Free       |
 | [syntSemFeatures](https://github.com/annefried/syntSemFeatures) | Automatic Extraction of Syntactic and Semantic Features      | Free       |
 | [*TreeTagger for Windows*](http://corpus.bfsu.edu.cn/TreeTagger_Lite_English.zip) | Part of Speech Tagging                                       | Free       |
-| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency list, Key word Analysis  | Commercial |
+| [*WordSmith*](https://lexically.net/wordsmith/)              | Concordance, Collocation, Frequency List, Key word Analysis  | Commercial |
