@@ -7,16 +7,21 @@ Corpus linguistics journals, conferences, tools and online resources.
 | ------------------------------------------------------------ | ------------------------------------------ | ------------ |
 | [*Applied Corpus Linguistics*](https://www.journals.elsevier.com/applied-corpus-linguistics) | Elsevier                                   | Yes          |
 | [*Across Languages and Cultures*](https://akjournals.com/view/journals/084/084-overview.xml) | Akadémiai Kiadó                            | Yes          |
+| [*Babel*](https://www.jbe-platform.com/content/journals/15699668) | John Benjamins                             | Yes          |
+| [*Corpora*](https://www.euppublishing.com/loi/cor)           | Edinburgh University Press                 | Yes          |
+| [*Corpus Linguistics and Linguistic Theory*](Corpus Linguistics and Linguistic Theory) | De Gruyter                                 | No           |
 | [*Corpus Linguistics Research*](http://www.kacl.or.kr/)      | Korean Association for Corpus Linguistics  | No           |
 | [*Corpus Pragmatics*](https://www.springer.com/journal/41701/) | Springer                                   | Yes          |
 | [*Critical Arts*](https://www.tandfonline.com/toc/rcrc20/current) | Sage                                       | Yes          |
 | [*Digital Scholarship in the Humanities*](https://academic.oup.com/dsh) | Oxford University Press                    | Yes          |
+| [*International Journal of Corpus Linguistics*](International Journal of Corpus Linguistics) | John Benjamins                             | Yes          |
 | [*International Journal of Learner Corpus Research*](https://benjamins.com/catalog/ijlcr) | John Benjamins                             | Yes          |
 | [*Journal of Corpora and Discourse Studies*](https://jcads.cardiffuniversitypress.org/) | Cardiff University Press                   | Yes          |
 | [*Language Resources and Evaluation*](https://www.springer.com/journal/10579/) | Springer                                   | No           |
 | [*Perspectives*](https://www.tandfonline.com/rmps20)         | Taylor & Francis                           | Yes          |
 | [*Research in Corpus Linguistics*](https://ricl.aelinco.es/index.php/ricl) | Spanish Association for Corpus Linguistics | Yes          |
 | [*Research Methods in Applied Linguistics*](https://www.journals.elsevier.com/research-methods-in-applied-linguistics) | Elsevier                                   | ---          |
+| [*Target*](https://benjamins.com/catalog/target)             | John Benjamins                             | Yes          |
 | [*Text & Talk*](https://www.degruyter.com/journal/key/TEXT/html) | De Gruyter                                 | No           |
 | [*语料库语言学*](http://ylyy.chinajournal.net.cn/wkg/WebPublication/index.aspx?mid=ylyy) | 北京外国语大学                             | Yes          |
 
